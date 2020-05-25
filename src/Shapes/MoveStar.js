@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Konva from 'konva';
 import { Stage, Layer, Star, Text } from 'react-konva';
 
-class App extends Component {
+class MoveStar extends Component {
   handleDragStart = e => {
     e.target.setAttrs({
       shadowOffset: {
@@ -53,4 +53,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default MoveStar;
