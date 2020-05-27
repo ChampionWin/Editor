@@ -4,7 +4,7 @@ import { Stage, Layer, Rect, Text, Circle, Line } from 'react-konva';
 class FixedRect extends Component {
   render() {
     return (
-      <Stage width={window.innerWidth} height={window.innerHeight}>
+      <Stage width={200} height={200}>
         <Layer>
           <Text text="Some text on canvas" fontSize={15} />
           <Rect

@@ -8,9 +8,12 @@
     "@testing-library/user-event": "^7.1.2",
     "konva": "^6.0.0",
     "react": "^16.13.1",
+    "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
+    "react-immer": "^1.5.3",
     "react-konva": "^16.13.0-3",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "use-immer": "^0.4.0"
   },
   "scripts": {
     "start": "react-scripts start",
