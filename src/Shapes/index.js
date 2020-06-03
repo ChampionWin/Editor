@@ -4,7 +4,7 @@ import { useImmerReducer } from 'use-immer'
 
 import Layers from './Layers'
 
-import './ShapeHome.css'
+import './style.css'
 
 const ADD_TEXT = 'ADD_TEXT'
 const ADD_CIRCLE = 'ADD_CIRCLE'

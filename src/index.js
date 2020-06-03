@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import ShapeHome from './Shapes/ShapeHome'
+import ShapeHome from './Shapes'
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
